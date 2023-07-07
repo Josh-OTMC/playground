@@ -22,6 +22,6 @@
         </style>
     </head>
     <body>
-        <p>This is a new paragraph.</p>
+        <p>This is a different paragraph.</p>
     </body>
 </html>
