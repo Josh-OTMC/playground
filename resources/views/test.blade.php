@@ -15,7 +15,10 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
         {{-- Custom CSS --}}
         <style>
-            
+            body {
+                background: #000;
+                color: #fff;
+            }
         </style>
     </head>
     <body>
