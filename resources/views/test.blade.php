@@ -24,5 +24,6 @@
     <body>
         <p>This is a new paragraph.</p>
         <p>A brand new paragraph.</p>
+        <p>3rd paragraph.</p>
     </body>
 </html>
