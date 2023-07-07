@@ -16,8 +16,8 @@
         {{-- Custom CSS --}}
         <style>
             body {
-                background: #000;
-                color: #fff;
+                /* background: #000; */
+                /* color: #fff; */
             }
         </style>
     </head>
